@@ -21,14 +21,7 @@
 ├─◈ If you need any help please join our community
 ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
 │
-├───────────────────────────────────────────────────▰▰▰
-
-├──┤ Social ├──▰▰▰
-│
-├─◈ <a href="https://twitter.com/mryadanigu">Twitter</a>
-├─◈ <a href="https://www.linkedin.com/in/yada-nigu-1b237a277">LinkedIn</a>
-│
-└───────────────────────▰▰▰
+└───────────────────────────────────────────────────▰▰▰
 
 </pre>
 
