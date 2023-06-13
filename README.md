@@ -34,7 +34,7 @@
 
 --------------
 <p align="center">
-#### Let's Get in Touch
+Let's Get in Touch
     </p>
 
 <p align="center">
