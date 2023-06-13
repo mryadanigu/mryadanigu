@@ -33,9 +33,10 @@
 </pre>
 
 --------------
-#### Let's Get in Touch
 
 <p align="center">
+    #### Let's Get in Touch
+    
     <a href="https://www.linkedin.com/in/yada-nigu-1b237a277/">
         <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
     </a>
