@@ -21,7 +21,7 @@
 ├─◈ If you need any help please join our community
 ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
 │
-├───────────────────────────────▰▰▰
+├───────────────────────────────────────────────────▰▰▰
 
 ├──┤ Social ├──▰▰▰
 │
