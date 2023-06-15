@@ -3,7 +3,7 @@
 <pre>
 
 ┌─[yada@github]─[~]
-└──╼ whoami😎
+└──╼ whoami
 ├─▣ Backend Engineer
 ├─▣ Frontend Engineer
 ├─▣ DevOps Engineer
@@ -27,7 +27,8 @@
 
 --------------
 <p align="center">
-Let's Get in Touch
+       😎
+Let's Get in Touch 
     </p>
 
 <p align="center">
