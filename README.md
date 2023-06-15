@@ -4,7 +4,7 @@
 
 ┌─[yada@github]─[~]
 └──╼ whoami
-├─▣ Backend Engineer
+┌─▣ Backend Engineer
 ├─▣ Frontend Engineer
 ├─▣ DevOps Engineer
 ├─▣ Cyber Security Engineer
