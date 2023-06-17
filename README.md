@@ -1,4 +1,4 @@
-[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+there!+👋)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=100&size=16&pause=1000&color=22D400&center=true&width=500&height=30&lines=Hey+there!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 --------------
 <pre>
  ┌─[yada@github]─[~]
