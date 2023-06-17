@@ -1,28 +1,28 @@
 --------------
-> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+there!+👋)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?lines=#+Hey+there!+👋)](https://git.io/typing-svg)
 <pre>
 
-> ┌─[yada@github]─[~]
-> └──╼ whoami
-> ┌─▣ Backend Engineer
-> ├─▣ Frontend Engineer
-> ├─▣ DevOps Engineer
-> ├─▣ Cyber Security Engineer
-> ├───────────────────────────▰▰▰
+ ┌─[yada@github]─[~]
+ └──╼ whoami
+ ┌─▣ Backend Engineer
+ ├─▣ Frontend Engineer
+ ├─▣ DevOps Engineer
+ ├─▣ Cyber Security Engineer
+ ├───────────────────────────▰▰▰
 
-> ├──┤ ALX Projects ├───────▰▰▰
-> │
-> ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
-> ├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
-> │
-> ├───────────────────────────────▰▰▰
+ ├──┤ ALX Projects ├───────▰▰▰
+ │
+ ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+ ├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
+ │
+ ├───────────────────────────────▰▰▰
 
-> ├──┤ COMMUNITY ├─────────▰▰▰
-> │
-> ├─◈ If you need any help please join our community
-> ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
-> │
-> └───────────────────────────────────────────────────▰▰▰
+ ├──┤ COMMUNITY ├─────────▰▰▰
+ │
+ ├─◈ If you need any help please join our community
+ ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
+ │
+ └───────────────────────────────────────────────────▰▰▰
 
 </pre>
 --------------
