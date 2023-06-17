@@ -1,4 +1,4 @@
-#### Hey there! 👋
+[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+there!+👋)](https://git.io/typing-svg)
 
 <pre>
 
@@ -13,6 +13,7 @@
 ├──┤ ALX Projects ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
 │
 ├───────────────────────────────▰▰▰
 
