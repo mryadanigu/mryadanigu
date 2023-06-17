@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=2D9CCD&vCenter=true&multiline=true&width=435&lines=++Hey+there!+%F0%9F%91%8B;++Welcome+to+my+GitHub+repository!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=06CD00&center=true&vCenter=true&multiline=true&width=500&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+repository!" alt="Typing SVG" /></a>
 --------------
 <pre>
  ┌─[yada@github]─[~]
