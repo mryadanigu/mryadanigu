@@ -1,4 +1,6 @@
+<p align="center">
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey+there!+👋)](https://git.io/typing-svg)
+ </p>
 --------------
 <pre>
  ┌─[yada@github]─[~]
