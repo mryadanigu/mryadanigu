@@ -5,53 +5,34 @@
 </div>
 
 --------------
-<h1>
-  <span style="color:#00ffff">┌─[yada@github]─[~]</span>
-</h1>
-<h1>
-  <span style="color:#00ff00">└──╼ whoami</span>
-</h1>
-<h1>
-  <span style="color:#ff00ff">┌─▣ Backend Engineer</span><br>
-  <span style="color:#ff00ff">├─▣ Frontend Engineer</span><br>
-  <span style="color:#ff00ff">├─▣ DevOps Engineer</span><br>
-  <span style="color:#ff00ff">├─▣ Cyber Security Engineer</span><br>
-  <span style="color:#ff00ff">├───────────────────────────▰▰▰</span>
-</h1>
-<h2>
-  <span style="color:#00ffff">├──┤ ALX Projects ├───────▰▰▰</span>
-</h2>
-<ul>
-  <li>
-    <span style="color:#00ff00">
-      ◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
-    </span>
-  </li>
-  <li>
-    <span style="color:#00ff00">
-      ◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
-    </span>
-  </li>
-</ul>
-<h2>
-  <span style="color:#00ffff">├───────────────────────────────▰▰▰</span>
-</h2>
-<h2>
-  <span style="color:#00ff00">├──┤ COMMUNITY ├─────────▰▰▰</span>
-</h2>
-<ul>
-  <li>
-    <span style="color:#00ff00">◈ If you need any help please join our community</span>
-  </li>
-  <li>
-    <span style="color:#00ff00">◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a></span>
-  </li>
-</ul>
-<h1>
-  <span style="color:#ff00ff">└───────────────────────────────────────────────────▰▰▰</span>
-</h1>
 
-</pre>
+<div align="center">
+
+# Welcome to My GitHub Profile!
+
+</div>
+
+```bash
+┌─[yada@github]─[~]
+└──╼ whoami
+┌─<span style="color: cyan">▣</span> Backend Engineer
+├─<span style="color: cyan">▣</span> Frontend Engineer
+├─<span style="color: cyan">▣</span> DevOps Engineer
+├─<span style="color: cyan">▣</span> Cyber Security Engineer
+├───────────────────────────<span style="color: cyan">▰▰▰</span>
+├──<span style="color: orange">┤ ALX Projects ├───────</span><span style="color: orange">▰▰▰</span>
+│
+├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
+│
+├───────────────────────────────<span style="color: orange">▰▰▰</span>
+├──<span style="color: lime">┤ COMMUNITY ├─────────</span><span style="color: lime">▰▰▰</span>
+│
+├─◈ If you need any help please join our community
+├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
+│
+└───────────────────────────────────────────────────<span style="color: lime">▰▰▰</span>
+
 --------------
 <p align="center">
 Let's Get in Touch 
