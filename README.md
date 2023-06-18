@@ -5,31 +5,53 @@
 </div>
 
 --------------
-<pre>
- <span style="color: green">┌─[yada@github]─[~]</span>
- <span style="color: green">└──╼ whoami</span>
- <span style="color: green">┌─▣ Backend Engineer</span>
- <span style="color: green">├─▣ Frontend Engineer</span>
- <span style="color: green">├─▣ DevOps Engineer</span>
- <span style="color: green">├─▣ Cyber Security Engineer</span>
- <span style="color: green">├───────────────────────────▰▰▰</span>
+<h1>
+  <span style="color:#00ffff">┌─[yada@github]─[~]</span>
+</h1>
+<h1>
+  <span style="color:#00ff00">└──╼ whoami</span>
+</h1>
+<h1>
+  <span style="color:#ff00ff">┌─▣ Backend Engineer</span><br>
+  <span style="color:#ff00ff">├─▣ Frontend Engineer</span><br>
+  <span style="color:#ff00ff">├─▣ DevOps Engineer</span><br>
+  <span style="color:#ff00ff">├─▣ Cyber Security Engineer</span><br>
+  <span style="color:#ff00ff">├───────────────────────────▰▰▰</span>
+</h1>
+<h2>
+  <span style="color:#00ffff">├──┤ ALX Projects ├───────▰▰▰</span>
+</h2>
+<ul>
+  <li>
+    <span style="color:#00ff00">
+      ◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+    </span>
+  </li>
+  <li>
+    <span style="color:#00ff00">
+      ◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
+    </span>
+  </li>
+</ul>
+<h2>
+  <span style="color:#00ffff">├───────────────────────────────▰▰▰</span>
+</h2>
+<h2>
+  <span style="color:#00ff00">├──┤ COMMUNITY ├─────────▰▰▰</span>
+</h2>
+<ul>
+  <li>
+    <span style="color:#00ff00">◈ If you need any help please join our community</span>
+  </li>
+  <li>
+    <span style="color:#00ff00">◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a></span>
+  </li>
+</ul>
+<h1>
+  <span style="color:#ff00ff">└───────────────────────────────────────────────────▰▰▰</span>
+</h1>
 
- <span style="color: green">├──┤ ALX Projects ├───────▰▰▰</span>
- <span style="color: green">│</span>
- <span style="color: green">├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops" style="color: green">alx-system_engineering-devops</a></span>
- <span style="color: green">├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming" style="color: green">alx-low_level_programming</a></span>
- <span style="color: green">│</span>
- <span style="color: green">├───────────────────────────────▰▰▰</span>
-
- <span style="color: green">├──┤ COMMUNITY ├─────────▰▰▰</span>
- <span style="color: green">│</span>
- <span style="color: green">├─◈ If you need any help please join our community</span>
- <span style="color: green">├─◈ <a href="https://discord.gg/8MMyDuc3" style="color: green">Discord Server</a></span>
- <span style="color: green">│</span>
- <span style="color: green">└───────────────────────────────────────────────────▰▰▰</span>
 </pre>
-
-
 --------------
 <p align="center">
 Let's Get in Touch 
