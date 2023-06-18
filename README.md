@@ -6,29 +6,29 @@
 
 --------------
 <pre>
- ┌─[yada@github]─[~]
- └──╼ whoami
- ┌─▣ Backend Engineer
- ├─▣ Frontend Engineer
- ├─▣ DevOps Engineer
- ├─▣ Cyber Security Engineer
- ├───────────────────────────▰▰▰
+ <span style="color: #ff80bf">┌─[yada@github]─[~]</span>
+ <span style="color: #ff80bf">└──╼ whoami</span>
+ <span style="color: #ff9966">┌─▣ Backend Engineer</span>
+ <span style="color: #ff9966">├─▣ Frontend Engineer</span>
+ <span style="color: #ff9966">├─▣ DevOps Engineer</span>
+ <span style="color: #ff9966">├─▣ Cyber Security Engineer</span>
+ <span style="color: #ffcc66">├───────────────────────────▰▰▰</span>
 
- ├──┤ ALX Projects ├───────▰▰▰
- │
- ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
- ├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
- │
- ├───────────────────────────────▰▰▰
+ <span style="color: #ff9966">├──┤ ALX Projects ├───────▰▰▰</span>
+ <span style="color: #ffffff">│</span>
+ <span style="color: #ffcc66">├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a></span>
+ <span style="color: #ffcc66">├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a></span>
+ <span style="color: #ffffff">│</span>
+ <span style="color: #ffcc66">├───────────────────────────────▰▰▰</span>
 
- ├──┤ COMMUNITY ├─────────▰▰▰
- │
- ├─◈ If you need any help please join our community
- ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
- │
- └───────────────────────────────────────────────────▰▰▰
-
+ <span style="color: #ff9966">├──┤ COMMUNITY ├─────────▰▰▰</span>
+ <span style="color: #ffffff">│</span>
+ <span style="color: #ffcc66">├─◈ If you need any help please join our community</span>
+ <span style="color: #ffcc66">├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a></span>
+ <span style="color: #ffffff">│</span>
+ <span style="color: #ffcc66">└───────────────────────────────────────────────────▰▰▰</span>
 </pre>
+
 --------------
 <p align="center">
 Let's Get in Touch 
