@@ -6,28 +6,29 @@
 
 --------------
 <pre>
- <span style="color: #ff80bf">┌─[yada@github]─[~]</span>
- <span style="color: #ff80bf">└──╼ whoami</span>
- <span style="color: #ff9966">┌─▣ Backend Engineer</span>
- <span style="color: #ff9966">├─▣ Frontend Engineer</span>
- <span style="color: #ff9966">├─▣ DevOps Engineer</span>
- <span style="color: #ff9966">├─▣ Cyber Security Engineer</span>
- <span style="color: #ffcc66">├───────────────────────────▰▰▰</span>
+ <span style="color: green">┌─[yada@github]─[~]</span>
+ <span style="color: green">└──╼ whoami</span>
+ <span style="color: green">┌─▣ Backend Engineer</span>
+ <span style="color: green">├─▣ Frontend Engineer</span>
+ <span style="color: green">├─▣ DevOps Engineer</span>
+ <span style="color: green">├─▣ Cyber Security Engineer</span>
+ <span style="color: green">├───────────────────────────▰▰▰</span>
 
- <span style="color: #ff9966">├──┤ ALX Projects ├───────▰▰▰</span>
- <span style="color: #ffffff">│</span>
- <span style="color: #ffcc66">├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a></span>
- <span style="color: #ffcc66">├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a></span>
- <span style="color: #ffffff">│</span>
- <span style="color: #ffcc66">├───────────────────────────────▰▰▰</span>
+ <span style="color: green">├──┤ ALX Projects ├───────▰▰▰</span>
+ <span style="color: green">│</span>
+ <span style="color: green">├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops" style="color: green">alx-system_engineering-devops</a></span>
+ <span style="color: green">├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming" style="color: green">alx-low_level_programming</a></span>
+ <span style="color: green">│</span>
+ <span style="color: green">├───────────────────────────────▰▰▰</span>
 
- <span style="color: #ff9966">├──┤ COMMUNITY ├─────────▰▰▰</span>
- <span style="color: #ffffff">│</span>
- <span style="color: #ffcc66">├─◈ If you need any help please join our community</span>
- <span style="color: #ffcc66">├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a></span>
- <span style="color: #ffffff">│</span>
- <span style="color: #ffcc66">└───────────────────────────────────────────────────▰▰▰</span>
+ <span style="color: green">├──┤ COMMUNITY ├─────────▰▰▰</span>
+ <span style="color: green">│</span>
+ <span style="color: green">├─◈ If you need any help please join our community</span>
+ <span style="color: green">├─◈ <a href="https://discord.gg/8MMyDuc3" style="color: green">Discord Server</a></span>
+ <span style="color: green">│</span>
+ <span style="color: green">└───────────────────────────────────────────────────▰▰▰</span>
 </pre>
+
 
 --------------
 <p align="center">
