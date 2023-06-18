@@ -6,41 +6,40 @@
 
 --------------
 
-<div align="center">
+<pre>
+ ┌─[yada@github]─[~]
+ └──╼ whoami
+ ┌─<span style="color: cyan">▣</span> Backend Engineer
+ ├─<span style="color: cyan">▣</span> Frontend Engineer
+ ├─<span style="color: cyan">▣</span> DevOps Engineer
+ ├─<span style="color: cyan">▣</span> Cyber Security Engineer
+ ├───────────────────────────<span style="color: cyan">▰▰▰</span>
 
-# Welcome to My GitHub Profile!
+ ├──<span style="color: orange">┤ ALX Projects ├───────</span><span style="color: orange">▰▰▰</span>
+ │
+ ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+ ├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
+ │
+ ├───────────────────────────────<span style="color: orange">▰▰▰</span>
 
-</div>
+ ├──<span style="color: lime">┤ COMMUNITY ├─────────</span><span style="color: lime">▰▰▰</span>
+ │
+ ├─◈ If you need any help please join our community
+ ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
+ │
+ └───────────────────────────────────────────────────<span style="color: lime">▰▰▰</span>
 
-```bash
-┌─[yada@github]─[~]
-└──╼ whoami
-┌─<span style="color: cyan">▣</span> Backend Engineer
-├─<span style="color: cyan">▣</span> Frontend Engineer
-├─<span style="color: cyan">▣</span> DevOps Engineer
-├─<span style="color: cyan">▣</span> Cyber Security Engineer
-├───────────────────────────<span style="color: cyan">▰▰▰</span>
-├──<span style="color: orange">┤ ALX Projects ├───────</span><span style="color: orange">▰▰▰</span>
-│
-├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
-├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
-│
-├───────────────────────────────<span style="color: orange">▰▰▰</span>
-├──<span style="color: lime">┤ COMMUNITY ├─────────</span><span style="color: lime">▰▰▰</span>
-│
-├─◈ If you need any help please join our community
-├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
-│
-└───────────────────────────────────────────────────<span style="color: lime">▰▰▰</span>
+</pre>
 
 --------------
+
 <p align="center">
 Let's Get in Touch 
     </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/yada-nigu-1b237a277/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
+        <img alt="LinkedIn Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
     </a>
     <span> * </span>
     <a href="https://twitter.com/suprivada">
