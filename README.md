@@ -5,41 +5,38 @@
 </div>
 
 --------------
-
 <pre>
  ┌─[yada@github]─[~]
  └──╼ whoami
- ┌─<span style="color: cyan">▣</span> Backend Engineer
- ├─<span style="color: cyan">▣</span> Frontend Engineer
- ├─<span style="color: cyan">▣</span> DevOps Engineer
- ├─<span style="color: cyan">▣</span> Cyber Security Engineer
- ├───────────────────────────<span style="color: cyan">▰▰▰</span>
+ ┌─▣ Backend Engineer
+ ├─▣ Frontend Engineer
+ ├─▣ DevOps Engineer
+ ├─▣ Cyber Security Engineer
+ ├───────────────────────────▰▰▰
 
- ├──<span style="color: orange">┤ ALX Projects ├───────</span><span style="color: orange">▰▰▰</span>
+ ├──┤ ALX Projects ├───────▰▰▰
  │
  ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
  ├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
  │
- ├───────────────────────────────<span style="color: orange">▰▰▰</span>
+ ├───────────────────────────────▰▰▰
 
- ├──<span style="color: lime">┤ COMMUNITY ├─────────</span><span style="color: lime">▰▰▰</span>
+ ├──┤ COMMUNITY ├─────────▰▰▰
  │
  ├─◈ If you need any help please join our community
  ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
  │
- └───────────────────────────────────────────────────<span style="color: lime">▰▰▰</span>
+ └───────────────────────────────────────────────────▰▰▰
 
 </pre>
-
 --------------
-
 <p align="center">
 Let's Get in Touch 
     </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/yada-nigu-1b237a277/">
-        <img alt="LinkedIn Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
     </a>
     <span> * </span>
     <a href="https://twitter.com/suprivada">
