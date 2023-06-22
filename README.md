@@ -35,7 +35,7 @@ Let's Get in Touch
     </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/yada-nigu-1b237a277/">
+    <a href="https://www.linkedin.com/in/mr-yada-nigu/">
         <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
     </a>
     <span> * </span>
