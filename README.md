@@ -14,7 +14,7 @@
   ┃ ┣━ Backend Engineer
   ┃ ┣━ DevOps Engineer
   ┃ ┣━ Cyber Security Engineer
-  ┃ ┗━━━━━━━━━━━━━━━▰▰▰
+    ┗━━━━━━━━━━━━━━━▰▰▰
 
   </pre>
   <pre>
@@ -34,12 +34,11 @@
   ┃ ┣━ Test-driven development and automated testing
   ┃ ┣━ Version control (Git)
   ┃ ┣━ DevOps and deployment automation (Docker, Kubernetes)
-  ┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
-  
-</pre>
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+  </pre>
 <pre>
     
-                 ▰▰▰━━━━━━ ALX Projects ━━━▰▰▰
+               ▰▰▰━━━━━━ ALX Projects ━━━▰▰▰
 
     ┏━
   ┃ ┃
@@ -48,14 +47,13 @@
   ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
   ┃ ┃
     ┗━
-
-  </pre>
+ </pre>
   <pre>
 
-              ▰▰▰━━━━━ COMMUNITY ━━━━━▰▰▰
+             ▰▰▰━━━━━ COMMUNITY ━━━━━▰▰▰
     ┏━
-    ┣━▣ If you need any help please join our community
-    ┣━▣ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
+  ┃ ┣━▣ If you need any help please join our community
+  ┃ ┣━▣ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
 
 </pre>
