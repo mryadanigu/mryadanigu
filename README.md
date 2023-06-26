@@ -38,7 +38,7 @@
   </pre>
 <pre>
     
-           ▰▰▰━━━━━━ ALX Projects ━━━━━▰▰▰
+     ▰▰▰━━━━━ ALX Projects ━━━━━▰▰▰
 
     ┏━
   ┃ ┃
