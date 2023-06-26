@@ -6,27 +6,57 @@
 
 --------------
 <pre>
- ┌─[yada@github]─[~]
- └──╼ whoami
- ┌─▣ Backend Engineer
- ├─▣ Frontend Engineer
- ├─▣ DevOps Engineer
- ├─▣ Cyber Security Engineer
- ├───────────────────────────▰▰▰
+┏━[yada@github]─[~]
+┗━$ whoami
 
- ├──┤ ALX Projects ├───────▰▰▰
- │
- ├─◈ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
- ├─◈ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
- │
- ├───────────────────────────────▰▰▰
+  ┏━▣ I'm:
+  ┃ ┣━ Frontend Engineer
+  ┃ ┣━ Backend Engineer
+  ┃ ┣━ DevOps Engineer
+  ┃ ┣━ Cyber Security Engineer
+  ┃ ┗━━━━━━━━━━━━━━━▰▰▰
 
- ├──┤ COMMUNITY ├─────────▰▰▰
- │
- ├─◈ If you need any help please join our community
- ├─◈ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
- │
- └───────────────────────────────────────────────────▰▰▰
+  </pre>
+  <pre>
+  
+┏━[yada@github]─[~]
+┗━$ list_assistance_areas
+  
+  ┏━▣ I can assist with:
+  ┃ ┣━ Code review and optimization
+  ┃ ┣━ Troubleshooting and debugging
+  ┃ ┣━ Algorithm design and optimization
+  ┃ ┣━ Software architecture and design patterns
+  ┃ ┣━ Web development (HTML, CSS, JavaScript)
+  ┃ ┣━ Backend development (Node.js, Python, Java)
+  ┃ ┣━ Database design and management (SQL, NoSQL)
+  ┃ ┣━ Mobile app development (Swift, Kotlin, React Native)
+  ┃ ┣━ Test-driven development and automated testing
+  ┃ ┣━ Version control (Git)
+  ┃ ┣━ DevOps and deployment automation (Docker, Kubernetes)
+  ┃ ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+  
+</pre>
+<pre>
+    
+                 ▰▰▰━━━━━━ ALX Projects ━━━▰▰▰
+
+    ┏━
+  ┃ ┃
+  ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+  ┃ ┃
+  ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
+  ┃ ┃
+    ┗━
+
+  </pre>
+  <pre>
+
+              ▰▰▰━━━━━ COMMUNITY ━━━━━▰▰▰
+    ┏━
+    ┣━▣ If you need any help please join our community
+    ┣━▣ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
 
 </pre>
 --------------
