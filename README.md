@@ -14,7 +14,7 @@
   ┃ ┣━ Backend Engineer
   ┃ ┣━ DevOps Engineer
   ┃ ┣━ Cyber Security Engineer
-    ┗━━━━━━━━━━━━━━━▰▰▰
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
 
   </pre>
   <pre>
@@ -34,7 +34,7 @@
   ┃ ┣━ Test-driven development and automated testing
   ┃ ┣━ Version control (Git)
   ┃ ┣━ DevOps and deployment automation (Docker, Kubernetes)
-    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
   </pre>
 <pre>
     
@@ -46,7 +46,7 @@
   ┃ ┃
   ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
   ┃ ┃
-    ┗━
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
  </pre>
   <pre>
 
