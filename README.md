@@ -17,25 +17,6 @@
   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
 
   </pre>
-  <pre>
-  
-┏━[yada@github]─[~]
-┗━$ list_assistance_areas
-  
-  ┏━▣ I can assist with:
-  ┃ ┣━ Code review and optimization
-  ┃ ┣━ Troubleshooting and debugging
-  ┃ ┣━ Algorithm design and optimization
-  ┃ ┣━ Software architecture and design patterns
-  ┃ ┣━ Web development (HTML, CSS, JavaScript)
-  ┃ ┣━ Backend development (Node.js, Python, Java)
-  ┃ ┣━ Database design and management (SQL, NoSQL)
-  ┃ ┣━ Mobile app development (Swift, Kotlin, React Native)
-  ┃ ┣━ Test-driven development and automated testing
-  ┃ ┣━ Version control (Git)
-  ┃ ┣━ DevOps and deployment automation (Docker, Kubernetes)
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
-  </pre>
 <pre>
     
      ▰▰▰━━━━━ ALX Projects ━━━━━▰▰▰
