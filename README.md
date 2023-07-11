@@ -22,14 +22,10 @@
      ▰▰▰━━━━━ ALX Projects ━━━━━▰▰▰
 
     ┏━
-  ┃ ┃
   ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
-  ┃ ┃
   ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
-  ┃ ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
- </pre>
-  <pre>
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+  
 
              ▰▰▰━━━━━ COMMUNITY ━━━━━▰▰▰
     ┏━
