@@ -1,27 +1,57 @@
-<h1 align="center">Hi 👋, I'm Yada</h1>
-<h3 align="center">A passionate Fullstack developer from Ethiopia</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=06CD00&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+repository!" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mryadanigu" alt="mryadanigu" /></a> </p>
+--------------
+<pre>
+┏━[yada@github]─[~]
+┗━$ whoami
 
-<p align="left"> <a href="https://twitter.com/mryadanigu" target="blank"><img src="https://img.shields.io/twitter/follow/mryadanigu?logo=twitter&style=for-the-badge" alt="mryadanigu" /></a> </p>
+  ┏━▣ I'm:
+  ┃ ┣━ Frontend Engineer
+  ┃ ┣━ Backend Engineer
+  ┃ ┣━ DevOps Engineer
+  ┃ ┣━ Cyber Security Engineer
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+▰▰▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+</pre>
+<pre>
+           ▰▰▰━━━━━ ALX Projects ━━━━━▰▰▰
+    ┏━
+  ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-system_engineering-devops">alx-system_engineering-devops</a>
+  ┃ ┣━▣ <a href="https://github.com/mryadanigu/alx-low_level_programming">alx-low_level_programming</a>
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+▰▰▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+</pre>
+<pre>
+  
+             ▰▰▰━━━━━ COMMUNITY ━━━━━▰▰▰
+    ┏━
+  ┃ ┣━▣ If you need any help please join our community
+  ┃ ┣━▣ <a href="https://discord.gg/8MMyDuc3">Discord Server</a>
+    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+▰▰▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰▰▰
+</pre>
+--------------
+<p align="center">
+Let's Get in Touch 
+    </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mryadanigu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mryadanigu" height="30" width="40" /></a>
-<a href="https://twitter.com/mryadanigu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mryadanigu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-yada-nigu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-yada-nigu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mr-yada-nigu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mr-yada-nigu" height="30" width="40" /></a>
-<a href="https://discord.gg/J4dNKSwd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="J4dNKSwd" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/mr-yada-nigu/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
+    </a>
+    <span> * </span>
+    <a href="https://twitter.com/suprivada">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
+    </a>
+    <span> * </span>
+    <a href="https://discord.gg/8MMyDuc3">
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
+    </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mryadanigu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mryadanigu" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryadanigu&show_icons=true&locale=en&layout=compact" alt="mryadanigu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mryadanigu&show_icons=true&locale=en" alt="mryadanigu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mryadanigu&" alt="mryadanigu" /></p>
+---------------
