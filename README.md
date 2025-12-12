@@ -6,7 +6,7 @@
 
 --------------
 <pre>
-┏━[yada@github]─[~]
+┏━[root@localhost]─[~]
 ┗━$ whoami
 
   ┏━▣ I'm:
