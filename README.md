@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mr-yada-nigu/">
+  <a href="https://www.linkedin.com/in/0x00byte/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
